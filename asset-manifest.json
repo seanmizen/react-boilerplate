@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://seanmizen.github.io/react-boilerplate/static/css/main.d494feeb.css",
+    "main.js": "https://seanmizen.github.io/react-boilerplate/static/js/main.1d74029b.js",
+    "index.html": "https://seanmizen.github.io/react-boilerplate/index.html",
+    "main.d494feeb.css.map": "https://seanmizen.github.io/react-boilerplate/static/css/main.d494feeb.css.map",
+    "main.1d74029b.js.map": "https://seanmizen.github.io/react-boilerplate/static/js/main.1d74029b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d494feeb.css",
+    "static/js/main.1d74029b.js"
+  ]
+}
